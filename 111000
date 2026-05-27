@@ -1,0 +1,50 @@
+‎<!DOCTYPE html>
+‎<html>
+‎<head>
+‎<meta charset="UTF-8">
+‎<meta name="viewport" content="width=device-width,initial-scale=1">
+‎
+‎<title>REJAUL TV</title>
+‎
+‎<style>
+‎body{
+‎background:#111;
+‎color:white;
+‎font-family:sans-serif;
+‎text-align:center;
+‎}
+‎
+‎video{
+‎width:95%;
+‎border-radius:12px;
+‎margin-top:20px;
+‎}
+‎
+‎.btn{
+‎background:red;
+‎padding:10px 20px;
+‎border:none;
+‎color:white;
+‎border-radius:10px;
+‎}
+‎</style>
+‎
+‎</head>
+‎
+‎<body>
+‎
+‎<h1>📺 REJAUL TV</h1>
+‎
+‎<video controls autoplay>
+‎<source src="https://go.skym3u.top/69di.m3u" type="application/x-mpegURL">
+‎</video>
+‎
+‎<br><br>
+‎
+‎<button class="btn">
+‎LIVE TV
+‎</button>
+‎
+‎</body>
+‎</html>
+‎
